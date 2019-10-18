@@ -12,32 +12,24 @@ Lalalalaal aku sayang sekali doraemon
 
 ## 🚀 Usage
 
-Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is shipped by default since npm `5.2.0`)
+Pastikan anda sudah menginstall npm dan expo pada device, lalu lakukan perintah dibawah untuk menjalankan projek:
 
-Just run the following command at the root of your project and answer questions:
-
+Install depedencies
 ```sh
-npx readme-md-generator
+npm install
 ```
 
-Or use default values for all questions (`-y`):
-
+Run project
 ```sh
-npx readme-md-generator -y
+expo start
 ```
 
-Use your own `ejs` README template (`-p`):
-
-```sh
-npx readme-md-generator -p path/to/my/own/template.md
-```
-
-You can find [ejs README template examples here](https://github.com/kefranabg/readme-md-generator/tree/master/templates).
+Setelah selesai, coba perhatikan anomali yang terdapat pada kompas, kemudian perbaiki.
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues) if you want to contribute.
+Feel free to check [issues page](https://github.com/mashara) if you want to contribute.
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
