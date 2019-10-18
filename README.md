@@ -1,7 +1,7 @@
 <h1 align="center">Mashara Compass HacktoberFest#2019 👋</h1>
 <p align="center">
   <a href="https://twitter.com/mashara_id">
-    <img alt="Twitter: mashara_id" target="_blank" />
+    <img alt="Twitter: mashara_id" src="https://img.shields.io/twitter/follow/mashara_id.svg?style=social" target="_blank" />
   </a>
 </p>
 
