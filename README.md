@@ -13,7 +13,7 @@ Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang
 
 Terdapat perilaku yang tidak wajar pada fitur kompas di projek ini, perilaku tersebut adalah perputaran jarum kompas yang sangat tidak effisien, ketika jarum kompas hampir menyentuh barat maka jarum akan berputar 360 derajat searah jarum jam, padahal untuk mencapai titik itu hanya perlu bergeser sedikit saja dari posisi jarum awal. Pecahkan problem tersebut.
 
-## 🚀 Build Setup
+## ⚙️ Build Setup
 
 Pastikan anda sudah menginstall npm dan expo pada device, lalu lakukan perintah dibawah untuk menjalankan projek:
 
@@ -73,3 +73,5 @@ Feel free to check [issues page](https://github.com/mashara) if you want to cont
 
 Copyright © 2019 [Mashara](https://github.com/mashara).<br />
 This project is [MIT](https://github.com/mashara) licensed.
+
+## Happy Code :trollface:
