@@ -1,6 +1,4 @@
-# compass-hacktoberfest-rn
-
-<h1 align="center">Mashara Compass 👋</h1>
+<h1 align="center">Mashara Compass HacktoberFest#2019 👋</h1>
 <p align="center">
   <a href="https://twitter.com/FranckAbgrall">
     <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
