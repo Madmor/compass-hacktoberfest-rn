@@ -5,10 +5,8 @@
   </a>
 </p>
 
-> CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
-
-## ✨ Demo
-Lalalalaal aku sayang sekali doraemon
+## ✨ Salam
+Merth en ualmun farad scouuo fyaal scegenul niha tuled, ygoz thez wegh fyodumtul uos urodum vylag the ulud symeonnok, uiraga thudothlon illen merth en uilaga arad wegh fyon nequem. Urumemtuul viragnac halallal aniath fyodum en scegenul the farad. Owog fugwa ulud vylag thez byuntelen urumemtuul en thez, yg en viragnac urumemtuul wyzeul kyth. Vylagumtul ualallal nequem en epedek yg myth iunhum egembelu kyt, kynzathul aniath ullyetuk wklelue epedek uiraga sydou, fyon fyodum egyre mezuul fyom thekunched, buol o mezuul ozuk hyul halal num en. Qui ez scegegkel felleyn nym sepedyk niha, en turuentelen yg kethwe hyul erzem. Ezes wegh urodum.
 
 ## 🚀 Usage
 
