@@ -5,9 +5,13 @@
   </a>
 </p>
 
-## ✨ Tentang Mashara
+## ✨ Mashara
 ![alt text](https://www.mashara.id/_nuxt/img/2751b66.jpg)
 Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang dunia keislaman ke seluruh dunia. Perintah mempelajari ilmu agama adalah wajib bagi seluruh umat islam. Untuk itu, mengkodifikasi sumber-sumber keilmuan berkualitas melalui orang-orang terpercaya sangat penting bagi Mashara. Fenomena hari ini, pengetahuan terkait keislaman seringkali hanya terbatas bagi kalangan tertentu saja. Mashara hadir untuk menjembatani orang-orang yang memiliki pengetahuan dengan yang membutuhkannya.
+
+## 👽 Problem
+
+Terdapat perilaku yang tidak wajar pada fitur kompas di projek ini, perilaku tersebut adalah perputaran jarum kompas yang sangat tidak effisien, ketika jarum kompas hampir menyentuh barat maka jarum akan berputar 360 derajat searah jarum jam, padahal untuk mencapai titik itu hanya perlu bergeser sedikit saja dari posisi jarum awal. Pecahkan problem tersebut.
 
 ## 🚀 Build Setup
 
