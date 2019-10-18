@@ -11,7 +11,7 @@ Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang
 
 ## 👽 Problem
 
-Terdapat perilaku yang tidak wajar pada fitur kompas di projek ini, perilaku tersebut adalah perputaran jarum kompas yang sangat tidak effisien, ketika jarum kompas hampir menyentuh barat maka jarum akan berputar 360 derajat searah jarum jam, padahal untuk mencapai titik itu hanya perlu bergeser sedikit saja dari posisi jarum awal. Pecahkan problem tersebut.
+Terdapat perilaku yang tidak wajar pada fitur penunjuk kiblat di projek ini, perilaku tersebut adalah perputaran jarum kompas yang sangat tidak effisien, ketika jarum kompas hampir menyentuh barat maka jarum akan berputar 360 derajat searah jarum jam, padahal untuk mencapai titik itu hanya perlu bergeser sedikit saja dari posisi jarum awal. Pecahkan problem tersebut.
 
 ## ⚙️ Build Setup
 
