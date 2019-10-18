@@ -5,10 +5,11 @@
   </a>
 </p>
 
-## ✨ Salam
-Merth en ualmun farad scouuo fyaal scegenul niha tuled, ygoz thez wegh fyodumtul uos urodum vylag the ulud symeonnok, uiraga thudothlon illen merth en uilaga arad wegh fyon nequem. Urumemtuul viragnac halallal aniath fyodum en scegenul the farad. Owog fugwa ulud vylag thez byuntelen urumemtuul en thez, yg en viragnac urumemtuul wyzeul kyth. Vylagumtul ualallal nequem en epedek yg myth iunhum egembelu kyt, kynzathul aniath ullyetuk wklelue epedek uiraga sydou, fyon fyodum egyre mezuul fyom thekunched, buol o mezuul ozuk hyul halal num en. Qui ez scegegkel felleyn nym sepedyk niha, en turuentelen yg kethwe hyul erzem. Ezes wegh urodum.
+## ✨ Tentang Mashara
+![alt text](https://www.mashara.id/_nuxt/img/2751b66.jpg)
+Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang dunia keislaman ke seluruh dunia. Perintah mempelajari ilmu agama adalah wajib bagi seluruh umat islam. Untuk itu, mengkodifikasi sumber-sumber keilmuan berkualitas melalui orang-orang terpercaya sangat penting bagi Mashara. Fenomena hari ini, pengetahuan terkait keislaman seringkali hanya terbatas bagi kalangan tertentu saja. Mashara hadir untuk menjembatani orang-orang yang memiliki pengetahuan dengan yang membutuhkannya.
 
-## 🚀 Usage
+## 🚀 Build Setup
 
 Pastikan anda sudah menginstall npm dan expo pada device, lalu lakukan perintah dibawah untuk menjalankan projek:
 
@@ -23,6 +24,31 @@ expo start
 ```
 
 Setelah selesai, coba perhatikan anomali yang terdapat pada kompas, kemudian perbaiki.
+
+## 🚀 Getting started
+* Fork repository ini ( Klik tombol fork di bagian atas kanan halaman ini )
+* Clone hasil fork nya ke komputer anda.
+```markdown
+git clone https://github.com/mashara-dev/hacktoberfest-hijri
+```
+* Buat branch baru
+```markdown
+git checkout -b nama-branch
+```
+* Buat perubahan sesuai instruksi cara kontribusi di atas
+* Pastikan 
+* Commit dan push
+
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
+
+* Buat pull-request dari hasil repositori fork anda. ( Klik tombol `New Pull Request`).
+* Jangan lupa Tambahkan Label `Hacktoberfest`
+* Tunggu PR anda di review  
+* Jangan lupa **Star** repo ini.
 
 ## 🤝 Contributing
 
